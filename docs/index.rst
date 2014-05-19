@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   version-control
+   Developer/version-control
 
 
 Indices and tables
