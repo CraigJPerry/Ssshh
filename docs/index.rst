@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    Developer/version-control
+   Developer/testing
 
 
 Indices and tables
