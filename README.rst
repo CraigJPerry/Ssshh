@@ -1,3 +1,6 @@
+.. image::  https://travis-ci.org/CraigJPerry/Ssshh.svg?branch=master
+   :target: https://travis-ci.org/CraigJPerry/Ssshh
+
 Ssshh!
 ======
 
